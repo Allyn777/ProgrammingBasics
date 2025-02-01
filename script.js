@@ -18,11 +18,3 @@ if (age >= 18) {
 } else {
  console.log("Minor");
 }
-
-let output = "";
-
-
-document.getElementById('console-output').innerText = output;
-
-
-<pre id="console-output"></pre>
