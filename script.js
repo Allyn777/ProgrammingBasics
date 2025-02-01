@@ -1,6 +1,6 @@
 // Variables
-let name = "John";
-let age = 25;
+let name = "Allyn";
+let age = 20;
 let isStudent = true;
 console.log(`Name: ${name}, Age: ${age}, Student: ${isStudent}`);
 // Loops
@@ -18,3 +18,4 @@ if (age >= 18) {
 } else {
  console.log("Minor");
 }
+
